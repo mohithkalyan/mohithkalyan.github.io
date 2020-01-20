@@ -6,6 +6,8 @@ This is my notes to keep track of my work on different things I learn/work over 
 ## What's Inside
 
 * Vulnerability Analysis
-* Writeups for CTF's
+* CTF Writeups
 * Malware Analysis (very ocassionally)
 * Resources
+* Career Tracks
+* Wiki
