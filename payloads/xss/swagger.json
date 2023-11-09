@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/mohithkalyan/mohithkalyan.github.io/master/payloads/xss/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/mohithkalyan/mohithkalyan.github.io/master/payloads/xss/swagger.yaml",
+            "name": "PoC"
+        }
+    ]
+}
